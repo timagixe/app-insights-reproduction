@@ -1,3 +1,6 @@
+# This repository is a reproduction for this issue
+https://github.com/microsoft/applicationinsights-react-js/issues/155
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
