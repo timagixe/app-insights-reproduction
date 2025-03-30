@@ -17,7 +17,6 @@ const appInsights = new ApplicationInsights({
 });
 
 function loadAppInsights() {
-  console.log(1);
   try {
     appInsights.loadAppInsights();
   } catch (error) {
